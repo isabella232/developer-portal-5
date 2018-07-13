@@ -135,6 +135,8 @@ const LearnHow = props => (
         image: imgUrl('bull.svg'),
         imageAlign: 'right',
         title: 'Learn How To Create Your Own STO',
+        href: 'https://blog.polymath.network/create-your-own-security-token-offering-sto-with-polymath-7d37f8cd9a6c',
+
       },
     ]}
   </Block>

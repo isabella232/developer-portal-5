@@ -45,7 +45,8 @@ class Help extends React.Component {
             <header className="postHeader">
               <h2>Need help?</h2>
             </header>
-            <p>This project is maintained by a dedicated group of people.</p>
+            <p>This project is maintained by a dedicated group of people: Charles St-Louis and Satyam - polymath profiles to be added here. Please feel free to ask us questions
+             on our Gitter channel! </p>
             <GridBlock contents={supportLinks} layout="threeColumn" />
           </div>
         </Container>
